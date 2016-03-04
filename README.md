@@ -13,7 +13,7 @@ You will need the following things properly installed on your computer.
 Install the demo.
 
 ```
-$ git clone git@github.com:ruanyf/extremely-simple-flux-demo.git
+$ git clone ssh://git@git.sankuai.com/~liulieyi/react-question.git
 $ cd react-question
 $ npm install
 $ bower intall
