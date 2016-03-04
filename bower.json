@@ -1,0 +1,22 @@
+{
+  "name": "react-question",
+  "description": "a react QA demo",
+  "main": "index.js",
+  "authors": [
+    "liulieyi"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "react",
+    "QA"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
